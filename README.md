@@ -1,5 +1,5 @@
-# Metacraft : ETH PROOF: Beginner EVM Course
-# MyToken Solidity Smart Contract
+# Metacraft :- ETH PROOF: Beginner EVM Course
+## MyToken Solidity Smart Contract
 
 ## Overview
 
